@@ -15,3 +15,4 @@ Granularity is 1 hour and is not changed.
 It reports gas and electricity cumulative data ("meterstanden") and puts nl_peak and nl_offpeak electricity data in SEPARATE COLUMNS
 
 
+A more elegant way is to rely on xml parsing....  
